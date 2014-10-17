@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kac:home|Door43 (kac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kac|d43-kac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kac/archive/master.zip|d43-kac.zip]]
+
+**Recent Changes**
+{{changes>ns = kac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kac|Ethnologue data]]
+
